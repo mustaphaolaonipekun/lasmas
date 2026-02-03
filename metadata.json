@@ -1,0 +1,7 @@
+{
+  "name": "LASMAS - LASUSTECH Smart Attendance System",
+  "description": "A premium attendance tracking solution tailored for Lagos State University of Science and Technology, featuring biometric lecture check-ins, exam eligibility tracking, and student analytics.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
